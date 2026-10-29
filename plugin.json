@@ -1,0 +1,18 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "name": "KAIROS AI Systems"
+  },
+  "description": "Turns a receipt photo or pasted receipt text into a categorized expense entry ready for the books.",
+  "keywords": [
+    "books",
+    "kairos",
+    "receipt",
+    "small business",
+    "to"
+  ],
+  "license": "MIT",
+  "name": "kairos-receipt-to-books",
+  "repository": "https://github.com/baselam88/kairos-receipt-to-books-plugin",
+  "version": "0.1.0"
+}
